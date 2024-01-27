@@ -1,0 +1,61 @@
+.portifolio {
+    width: 100%;
+    margin-top: 15rem;
+}
+
+.project {
+    background-color: yellow;
+    width: 30rem;
+    height: 26rem;
+}
+
+.top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.bottom {
+    margin-top: 2rem;
+    padding-left: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.project p {
+    padding: 1rem;
+    font-size: 1rem;
+    font-family: "Gruppo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.project {
+    position: relative;
+}
+
+.project h2 {
+    position: absolute;
+    bottom: 0;
+    font-size: 1.2rem;
+    padding: 3rem;
+    font-family: "Cousine", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@media screen and (max-width: 750px) {
+    .project {
+        width: 25rem;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .project {
+        width: 20rem;
+        height: 20rem;
+    }
+}

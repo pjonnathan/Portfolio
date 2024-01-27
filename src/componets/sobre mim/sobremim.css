@@ -1,0 +1,39 @@
+.sobremim {
+    margin-top: 210px;
+    display: flex;
+    justify-content: center;
+}
+
+.sobremim img {
+    width: 30rem;
+}
+
+.infor-sobre {
+    width: 300px;
+    padding-left: 20px;
+}
+
+.infor-sobre .titulo {
+    color: blue;
+    font-size: 16px;
+}
+
+.infor-sobre .decricao {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.infor-sobre p {
+    margin-top: 10px;
+    font-size: 0.8rem;
+    text-align: justify;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+@media screen and (max-width: 800px) {
+    .sobremim img {
+        display: none;
+    }
+}
