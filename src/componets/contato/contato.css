@@ -98,4 +98,9 @@ form textarea {
         display: flex;
         justify-content: center;
     }
+
+    form {
+        padding: 1rem;
+        margin-left: 0;
+    }
 }
