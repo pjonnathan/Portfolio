@@ -1,5 +1,4 @@
 .informaçoes {
-    animation: inicializar .7s forwards;
     margin-top: 80px;
     padding: 30px;
     display: flex;
@@ -27,13 +26,6 @@
 .text h2 {
     font-size: 50px;
     color: rgb(80, 78, 78);
-}
-
-.digitando::after {
-    content: '|';
-    margin-left: 5px;
-    opacity: 1;
-    animation: pisca .5s infinite;
 }
 
 .text p {
@@ -84,10 +76,21 @@
 @media screen and (max-width: 1000px) {
     .informaçoes {
         display: flex;
+        text-align: center;
         flex-direction: column;
     }
+}
 
-    .text {
-        width: 100%;
+@media screen and (max-width: 720px) {
+    .informaçoes {
+        padding: 0;
+    }
+
+    .tecnologias p {
+        font-size: 1rem;
+    }
+
+    .tecnologias {
+        width: 27rem;
     }
 }

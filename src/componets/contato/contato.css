@@ -103,4 +103,8 @@ form textarea {
         padding: 1rem;
         margin-left: 0;
     }
+
+    .contato-footer {
+        width: 26rem;
+    }
 }
