@@ -105,6 +105,7 @@ form textarea {
     }
 
     .contato-footer {
-        width: 26rem;
+        width: 20rem;
+        margin: 0 auto;
     }
 }
