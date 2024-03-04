@@ -4,6 +4,8 @@ import './portifolio.css';
 const Portifolio = () => {
     return (
         <div className="portifolio">
+            <h1>PROJETOS</h1>
+            <p id="ptitulo">Projetos que trabalhei</p>
             <div className="top">
                 <a href="https://pjonnathan.github.io/previs-o_de_tempo/">
                     <div className="project um">

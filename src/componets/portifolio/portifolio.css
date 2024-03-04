@@ -3,6 +3,21 @@
     margin-top: 15rem;
 }
 
+.portifolio h1 {
+    padding: 0 4.5rem;
+    color: blue;
+    font-size: 16px;
+}
+
+#ptitulo {
+    padding: 0 4.5rem;
+    margin-bottom: 3rem;
+    font-size: 1rem;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
 .project {
     background-color: yellow;
     width: 30rem;
