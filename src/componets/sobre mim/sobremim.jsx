@@ -8,7 +8,7 @@ const Sobremim = () => {
             <img src={imgSobremim} alt="Img Sobre mim" />
             <aside class="infor-sobre">
                 <h2 class="titulo">SOBRE MIM</h2>
-                <h2 class="decricao">Dedicação ao Desenvolvimento Front-End</h2>
+                <h2 class="decricao">Dedicação ao Desenvolvimento Back-End</h2>
                 <p>
                     Olá! Sou um entusiasta da programação com 21 anos de idade. Ingressei no mundo da codificação em 2017, iniciando minha jornada com Python, onde desenvolvi habilidades sólidas em lógica e algoritmos. Mais tarde, explorei a programação orientada a objetos (POO) através de Java. <br />
 
