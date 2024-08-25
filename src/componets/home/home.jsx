@@ -9,6 +9,7 @@ import dockerIcon from '../../assets/docker.svg'
 import gitIcon from '../../assets/git.svg'
 import githubIcon from '../../assets/github.svg'
 import linkedinIcon from '../../assets/linkedin.svg'
+import javaIcon from '../../assets/java.png'
 
 
 const Home = () => {
@@ -43,8 +44,8 @@ const Home = () => {
                     <img src={gitIcon} alt="Git" />
                     <p>Git</p>
                 </div>
-                <div className="Java">
-                    <img src={java} alt="Java" />
+                <div className="tecsIcon">
+                    <img src={javaIcon} alt="Java" />
                     <p>Java</p>
                 </div>
             </aside>
