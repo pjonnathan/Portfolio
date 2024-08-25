@@ -12,7 +12,7 @@ const Sobremim = () => {
                 <p>
                     Olá! Sou um entusiasta da programação com 21 anos de idade. Ingressei no mundo da codificação em 2017, iniciando minha jornada com Python, onde desenvolvi habilidades sólidas em lógica e algoritmos. Mais tarde, explorei a programação orientada a objetos (POO) através de Java. <br />
 
-                    Ao longo dessa trajetória, descobri minha paixão pelo desenvolvimento front-end, onde concentro meus esforços atualmente. Além do universo da programação, sou um amante de esportes, encontrando desafios no futebol, xadrez e basquete.
+                    Ao longo dessa trajetória, descobri minha paixão pelo desenvolvimento Back-end. Além do universo da programação, sou um amante de esportes, encontrando desafios no futebol, xadrez e basquete.
                 </p>
             </aside>
         </div>

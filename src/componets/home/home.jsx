@@ -17,10 +17,10 @@ const Home = () => {
             <aside class="informaçoes">
                 <aside class="text">
                     <p>Oi, eu sou o Jonnathan 👋</p>
-                    <h2 class="digitando">FRONTEND DEVELOPER</h2>
+                    <h2 class="digitando">BACKEND DEVELOPER</h2>
                     <p className="home-icon">
                         <a href="https://github.com/pjonnathan" target="_blank"><img src={githubIcon} alt="Github" /></a>
-                        <a href="https://www.linkedin.com/in/pedro-jonnathan-b070a1265/" target="_blank"><img src={linkedinIcon} alt="linkendin" /></a>
+                        <a href="https://www.linkedin.com/in/pedro-jonnathan-bb8870323/" target="_blank"><img src={linkedinIcon} alt="linkendin" /></a>
                     </p>
                 </aside>
                 <img src={fotoPerfil} alt="" />
@@ -30,14 +30,6 @@ const Home = () => {
                 <div className="tecsIcon">
                     <img src={jsIcon} alt="js" />
                     <p>JavaScript</p>
-                </div>
-                <div className="tecsIcon">
-                    <img src={reactIcon} alt="React" />
-                    <p>React</p>
-                </div>
-                <div className="tecsIcon">
-                    <img src={bootstrapIcon} alt="Bootstrap" />
-                    <p>Bootstrap</p>
                 </div>
                 <div className="tecsIcon">
                     <img src={psqlIcon} alt="Postgres" />
@@ -50,6 +42,10 @@ const Home = () => {
                 <div className="tecsIcon">
                     <img src={gitIcon} alt="Git" />
                     <p>Git</p>
+                </div>
+                <div className="Java">
+                    <img src={java} alt="Java" />
+                    <p>Java</p>
                 </div>
             </aside>
         </div>
